@@ -1,0 +1,1 @@
+# multilingual-react-native-app-with-redux
